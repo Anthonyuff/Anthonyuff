@@ -1,6 +1,7 @@
 <div style="display: flex; align-items: center; gap: 20px;">
-  <img src="https://i.pinimg.com/736x/6a/fc/04/6afc040ebcbda58323eff291aa55291b.jpg" width="120" style="border-radius:200%;" />
-<div style="display: flex; width: 100%;">
+  <img src="https://i.pinimg.com/736x/6a/fc/04/6afc040ebcbda58323eff291aa55291b.jpg" width="400" style="border-radius:200%;" />
+
+  <div style="display: flex; width: 100%;">
     <h1>Hi, I'm Anthonyuff! 👋</h1>
     <ul>
         
