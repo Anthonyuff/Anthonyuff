@@ -1,4 +1,4 @@
-![Ego](https://i.imgur.com/mSkeiyW.jpeg)
+![Ego](https://i.pinimg.com/736x/6a/fc/04/6afc040ebcbda58323eff291aa55291b.jpg)
 <div style="display: flex; width: 100%;">
     <h1>Hi, I'm Anthonyuff! 👋</h1>
     <ul>
