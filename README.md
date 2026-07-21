@@ -9,7 +9,7 @@
         
 🚀 I'm learning english
         
-🐍 Currently studying Python 
+🐍 Currently studying Python and C++
       
 🗻 I'm learning how to develop algorithms about seismic modeling 
        
