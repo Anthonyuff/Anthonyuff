@@ -16,6 +16,7 @@
 ### Languages and Tools 🛠 
 
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
+![C++](https://img.shields.io/badge/-Python-000000?style=flat&logo=cpp)
         
    
 ### 👀 Visitors count
