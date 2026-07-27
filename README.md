@@ -31,13 +31,13 @@
 <div align="center">
   <img
     width="49%"
-    src="https://github-readme-stats.vercel.app/api?username=Anthonyuff&show_icons=true&theme=react&hide_border=true&bg_color=001117"
+    src="./profile/stats.svg"
     alt="Anthonyuff GitHub stats"
   />
 
   <img
     width="46%"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anthonyuff&layout=compact&theme=react&hide_border=true&bg_color=001117"
+    src="./profile/top-langs.svg"
     alt="Anthonyuff most used languages"
   />
 </div>
