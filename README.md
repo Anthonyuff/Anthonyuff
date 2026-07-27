@@ -18,13 +18,25 @@
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
         
    
-### Visitors count 👀
+### 👀 Visitors count
 
-<img src="https://profile-counter.glitch.me/Anthonyuff/count.svg" alt="Visitor count" />
+<img
+  src="https://komarev.com/ghpvc/?username=Anthonyuff&label=PROFILE+VIEWS&color=0e75b6&style=flat"
+  alt="Anthonyuff profile views"
+/>
 
-## 📊 Github stats
+## 📊 GitHub stats
 
 <div align="center">
-  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=Anthonyuff&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anthonyuff&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&layout=compact" />
+  <img
+    width="49%"
+    src="https://github-readme-stats.vercel.app/api?username=Anthonyuff&show_icons=true&theme=react&hide_border=true&bg_color=001117"
+    alt="Anthonyuff GitHub stats"
+  />
+
+  <img
+    width="46%"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anthonyuff&layout=compact&theme=react&hide_border=true&bg_color=001117"
+    alt="Anthonyuff most used languages"
+  />
 </div>
